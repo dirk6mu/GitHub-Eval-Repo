@@ -10,6 +10,7 @@
 <plugin id="org.eclipse.core.commands"/>
 <plugin id="org.eclipse.core.runtime.compatibility.auth"/>
 <plugin id="org.eclipse.equinox.registry"/>
+<plugin id="com.ibm.icu"/>
 <plugin id="org.eclipse.core.databinding"/>
 <plugin id="org.eclipse.ui.workbench"/>
 <plugin id="org.eclipse.core.expressions"/>
@@ -22,12 +23,12 @@
 <plugin id="org.eclipse.osgi.services"/>
 <plugin id="org.eclipse.equinox.preferences"/>
 <plugin id="org.eclipse.equinox.common"/>
-<plugin id="com.ibm.icu.source"/>
 <plugin id="org.eclipse.core.runtime.compatibility.registry"/>
 <plugin id="org.eclipse.swt"/>
 <plugin id="javax.servlet"/>
 <plugin id="org.eclipse.ui"/>
 <plugin id="org.eclipse.core.runtime"/>
+<plugin id="org.eclipse.core.databinding.property"/>
 <plugin id="org.eclipse.core.databinding.observable"/>
 <plugin id="org.eclipse.core.contenttype"/>
 </includeBundles>
